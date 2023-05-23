@@ -1,0 +1,24 @@
+*{
+    font-size:16 px
+}
+
+body {
+    blackground-color:red;
+}
+
+
+h3{
+    text-align: center;
+    color:rgb(108, 194, 51);
+}
+
+.text-white {
+    color:aqua;
+} 
+
+
+#encabezado_principal{
+    text-align: center;
+    color:rgb(96, 16, 170)
+}
+
